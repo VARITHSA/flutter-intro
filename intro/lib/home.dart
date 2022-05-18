@@ -9,6 +9,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("INTRODUCTION TO FLUTTER"),
+        title: Text("APP CATALOG")
       ),
     body: Center(
       child:Container(
